@@ -1,0 +1,11 @@
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\bin\Debug\WaitDialogDemo.exe.config
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\bin\Debug\WaitDialogDemo.exe
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\bin\Debug\WaitDialogDemo.pdb
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.csprojResolveAssemblyReference.cache
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.Form1.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.Properties.Resources.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.WaitDialog.resources
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.csproj.GenerateResource.Cache
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.exe
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.pdb
+C:\Users\qucc\documents\visual studio 2012\Projects\SCH\WaitDialogDemo\obj\Debug\WaitDialogDemo.RingProgressBar.resources
